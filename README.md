@@ -1,0 +1,2 @@
+# Healthcare-Disease-Prediction-and-Patient-Analysis
+This Project aims to predict vulnerable and high risk patients using different machine learning algorithms such as K Means Clustering , Logistic Regression and Artificial Neural networks were also used . This project mainly caters to Chronic Diseases like Diabetes and Cardio-Vascular Diseases. Models were trained on datasets available on kaggle. 
